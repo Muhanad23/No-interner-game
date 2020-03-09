@@ -1,2 +1,2 @@
 # No-internet-game
-it's an assembly game that look like google chrome game when no internet
+it's an assembly game that looks like google chrome game when no internet
